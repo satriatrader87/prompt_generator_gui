@@ -26,7 +26,9 @@ Run the GUI application:
 ```bash
 python prompt_generator_gui.py
 ```
-
+```bash
+python character.py
+```
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
